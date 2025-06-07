@@ -37,7 +37,6 @@ A modern, full-stack todo application built with **Next.js 15**, **Neon DB (Post
 1. **Clone the repository**
    ```bash
    git clone https://github.com/pratikpatwe/DB-OPS-drizzle-neon-pg.git
-   cd todo-app
    ```
 
 2. **Install dependencies**
@@ -245,26 +244,6 @@ curl -X PATCH http://localhost:3000/api/todos/1 \
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Next.js Team](https://nextjs.org/) for the amazing framework
-- [Neon](https://neon.tech/) for serverless PostgreSQL
-- [Drizzle Team](https://orm.drizzle.team/) for the excellent ORM
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS
 
 ## 📞 Connect with Me
 
