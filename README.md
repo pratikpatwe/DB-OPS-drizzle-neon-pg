@@ -36,7 +36,7 @@ A modern, full-stack todo application built with **Next.js 15**, **Neon DB (Post
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/pratikpatwe/DB-OPS-drizzle-neon-pg.git
    cd todo-app
    ```
 
@@ -268,9 +268,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Connect with Me
 
-Built with ❤️ by **Pratik Patwe**
+Built by **Pratik Patwe**
 
-🐦 **Follow me on X (Twitter):** [@pratikpatwe](https://x.com/pratikpatwe)
+🐦 **Follow me on X (Twitter):** [@pratik_patwe](https://x.com/pratik_patwe)
 
 ---
 
